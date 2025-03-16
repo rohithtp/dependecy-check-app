@@ -93,7 +93,7 @@
         <plugin>
           <groupId>org.owasp</groupId>
           <artifactId>dependency-check-maven</artifactId>
-          <version>6.5.3</version>
+          <version>8.0.0</version> <!-- Updated to the latest version -->
           <configuration>
             <reportSets>
               <reportSet>
